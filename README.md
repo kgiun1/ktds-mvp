@@ -63,6 +63,23 @@ AI Agent 기반 다국어 자막 처리 시스템은
 
 [링크] https://joe-demo-bgapd3b7evhtb4a2.canadacentral-01.azurewebsites.net/
 
+[샘플 자막 데이터]
+뉴스
+  오늘 오전, 서울 도심에서 대규모 시위가 열렸습니다.
+  경찰은 평화로운 집회를 유도하며 질서 유지에 나섰습니다.
+
+예능
+  형 진짜 거기서 넘어졌다고?
+
+요리 프로그램
+  이때 불 조절이 중요하니까, 중불 유지하세요.
+
+다큐멘터리
+  사막의 낮과 밤은 극심한 온도 차이를 보입니다.
+  이 환경에서 살아남기 위해 낙타는 진화해왔습니다.
+
+음악방송
+  다음 무대는 요즘 대세! BTS의 신곡 ‘Dynamite’입니다!
 <img width="638" height="794" alt="다국어자막 AI AGENT_003" src="https://github.com/user-attachments/assets/0676d412-baa6-48bb-add0-56a8fce6eaef" />
 
 
